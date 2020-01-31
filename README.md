@@ -2,9 +2,6 @@
 
 ***Sharing. Connecting. Empowering***
 
-Find all the information about our community and projects at
-[https://open-life-science.github.io](https://open-life-science.github.io).
-
 ## Welcome!
 
 First and foremost, Welcome! 🎉 Willkommen! 🎊 Bienvenue! 🙏 सुस्वागत (Suswagat)🎈🎈🎈
