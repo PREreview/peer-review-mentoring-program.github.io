@@ -49,6 +49,18 @@ supportive environment for everyone who wants to participate. When you join us
 we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all
 interactions both on and offline.
 
+## Acknowledgements
+
+This repository was forked from https://github.com/open-life-science/open-life-science.github.io.
+We thank the creators of the Open Life Science program, in particular Yo Yeudi, for their time and advice
+and for letting us use  their materials and guidelines as template.
+
+We also thank Mozilla Open Leaders, in particular Abby Cabunoc Mayes and Chad Sansing for their 
+mentorship and leadership and for sharing the how tos of this program with the world. We owe you a lot!
+
+We also thank Julie Stewart Lowndes founder of Openscapes, and Emmy Tsang, community innovation officer and 
+creator of eLIFE Innovator Leaders program, for their help, support, time and advice in creating this program.
+
 ## How can I generate the website locally?
 
 You need a `ruby` environment (version >= 2.4). Either you have it installed and
