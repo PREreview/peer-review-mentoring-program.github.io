@@ -1,4 +1,4 @@
-# Open Life Science
+# PREreview Peer Review Mentoring Program
 
 ***Sharing. Connecting. Empowering***
 
@@ -15,25 +15,30 @@ out more.
 
 ## What are we doing?
 
-We are working to create a mentoring program for individuals interested in becoming
-ambassadors for Open Science practice, training and education in their communities.
+We are working to build a free cohort-based mentoring program for researchers interested in learning 
+about the nuts and bolts of scholarly peer review in a dynamic, respectful, and global 
+settings. Even though this program is reserach topic agnostic, it may have a bias towards 
+life science fields.
 
-Our outcome is to support early stage researchers and young leaders by sharing
-Open Science skills, connecting them to others in the community,
-and empowering them to become ambassadors for Open Science practice,
-training and education in their communities.
+Our goal is to support early-career researchers (*i.e.*, Master's level students and above 
+in the academic track) by sharing aggregated knowledge about scholarly peer review, 
+connecting them to peers and other stakeholders in the community,
+and empowering them to become constructive members of the scientific community.
+
+This program is part of an open project called [PREreview](https://content.prereview.org/about/) whose **mission** at is to bring more diversity to scholarly peer review by supporting and empowering community of researchers, particularly those at early stages of their career, to review preprints. We created a [free and open web platform](https://prereview.org) in which anyone with an ORCID iD can provide constructive feedback to preprints.
 
 ## Who are we?
 
-We are currently a team of 3 members who share a passion for Open Research and inclusiveness in Open Science.
+First and foremost, we are a team of women scientists dedicated to making academia a diverse and inclusive space.
 
-As the graduates, mentors, and hosts of various Mozilla Open Leaders cohorts, we have gained expertise in the technical and culture track. Furthermore, we participate in a wide range of activities in different international communities of practice in the life sciences: ELIXIR (European bioinformatics network), Galaxy, The Carpentries, Software Sustainability Institute (SSI), Open Bioinformatics Foundation (OBF), and Mozilla.
+We are also advocate for open practices and are involved in several open commutities such as [ASAPbio Ambassadors](https://asapbio.org/asapbio-ambassadors), [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/),
+[eLIFE Ambassadors](https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019), and [OpenCon](https://www.opencon2018.org/). 
 
 ## What do we need?
 
 **You!** In whatever way you can help.
 
-We need expertise in open-science, training, mentoring, communication. We'd love your feedback along the way, and of course.
+We need expertise in peer review (both traditional and innovative), diversity and inclusion, open-science, training, mentoring, leadership, communication, community building.
 
 ## Get involved
 
